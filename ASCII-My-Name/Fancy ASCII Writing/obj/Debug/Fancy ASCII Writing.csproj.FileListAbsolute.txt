@@ -1,0 +1,12 @@
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\ASCII Programming Application\Fancy ASCII Writing\Fancy ASCII Writing\bin\Debug\Fancy ASCII Writing.exe.config
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\ASCII Programming Application\Fancy ASCII Writing\Fancy ASCII Writing\bin\Debug\Fancy ASCII Writing.exe
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\ASCII Programming Application\Fancy ASCII Writing\Fancy ASCII Writing\bin\Debug\Fancy ASCII Writing.pdb
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\ASCII Programming Application\Fancy ASCII Writing\Fancy ASCII Writing\obj\Debug\Fancy ASCII Writing.exe
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\ASCII Programming Application\Fancy ASCII Writing\Fancy ASCII Writing\obj\Debug\Fancy ASCII Writing.pdb
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\ASCII Programming Application\Fancy ASCII Writing\Fancy ASCII Writing\obj\Debug\Fancy ASCII Writing.csprojResolveAssemblyReference.cache
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\Fancy ASCII Writing\Fancy ASCII Writing\bin\Debug\Fancy ASCII Writing.exe.config
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\Fancy ASCII Writing\Fancy ASCII Writing\obj\Debug\Fancy ASCII Writing.exe
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\Fancy ASCII Writing\Fancy ASCII Writing\obj\Debug\Fancy ASCII Writing.pdb
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\Fancy ASCII Writing\Fancy ASCII Writing\bin\Debug\Fancy ASCII Writing.exe
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\Fancy ASCII Writing\Fancy ASCII Writing\bin\Debug\Fancy ASCII Writing.pdb
+\\JENNSCOMPUTER\Network Drive\Programming\Small Projects\Fancy ASCII Writing\Fancy ASCII Writing\obj\Debug\Fancy ASCII Writing.csprojResolveAssemblyReference.cache

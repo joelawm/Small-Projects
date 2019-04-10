@@ -1,0 +1,11 @@
+﻿<Window x:Class="Alarm_Clock_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="CountTime" VerticalAlignment="Top" Width="146" FontFamily="Burger Joint JL" FontSize="24" />
+        <Label Content="14:31:00" Height="28" Margin="178,170,188,0" Name="TriggerTime" VerticalAlignment="Top" FontFamily="Burger Joint JL" FontSize="24" />
+        <Button Content="Start" Height="23" HorizontalAlignment="Left" Margin="178,256,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Label Content="" Height="28" HorizontalAlignment="Left" Margin="186,222,0,0" Name="label1" VerticalAlignment="Top" Width="109" />
+    </Grid>
+</Window>

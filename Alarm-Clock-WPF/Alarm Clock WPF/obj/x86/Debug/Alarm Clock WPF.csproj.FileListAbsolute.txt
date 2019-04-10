@@ -1,0 +1,11 @@
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\bin\Debug\Alarm Clock WPF.exe
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\bin\Debug\Alarm Clock WPF.pdb
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\App.g.cs
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\Alarm Clock WPF_MarkupCompile.cache
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\Alarm Clock WPF.g.resources
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\Alarm_Clock_WPF.Properties.Resources.resources
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\Alarm Clock WPF.csproj.GenerateResource.Cache
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\Alarm Clock WPF.exe
+C:\Users\deltagi\Desktop\Alarm Clock WPF\Alarm Clock WPF\obj\x86\Debug\Alarm Clock WPF.pdb
